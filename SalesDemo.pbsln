@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Solution>
+  <Projects Default="Native_PB\Appeon.SalesDemo\salesdemo.pbproj">
+    <Project Path="Native_PB\Appeon.SalesDemo\salesdemo.pbproj"/>
+  </Projects>
+</Solution>
