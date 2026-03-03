@@ -90,10 +90,6 @@ else
 end if
 
 
-
-
-
-
 setlanguage(french!)
 
 
