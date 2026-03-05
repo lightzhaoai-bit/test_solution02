@@ -9,7 +9,7 @@ PVS:1.0.0.1
 PVN:1,0,0,1
 FVS:1.0.0.1
 FVN:1,0,0,1
-MAN:0,asInvoker,0,1,1,0,0
+MAN:0,asInvoker,0,1,1,0,0,0,,0,0
 PBD:salesdemo.pbl,,1
 PBD:common.pbl,,1
 PBD:person.pbl,,1
