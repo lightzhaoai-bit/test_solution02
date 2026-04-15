@@ -1,0 +1,83 @@
+﻿EXE:sales.exe,,0,0,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 25.1.0.6285
+EXT:0
+CMP:0,0,0,2,0,0,1
+COM:Appeon
+DES:Appeon Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVS:1.0.0.1
+PVN:1,0,0,1
+FVS:1.0.0.1
+FVN:1,0,0,1
+MAN:0,asInvoker,0,1,1,0,0,0,,0,0
+PBD:salesdemo.pbl,,1
+PBD:common.pbl,,1
+PBD:person.pbl,,1
+PBD:product.pbl,,1
+PBD:salesorder.pbl,,1
+PBD:report.pbl,,1
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\report.pbl,u_graphcontrol,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,f_restore_data,f
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,w_createpdf,w
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesorder.pbl,d_salesorder_select,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\person.pbl,w_person,w
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\product.pbl,d_subcategory,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\report.pbl,d_subcategorysalesreport_m,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\person.pbl,d_address_filter,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\common.pbl,u_tab_base,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesorder.pbl,d_order_header_free,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\person.pbl,w_address,w
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,w_main,w
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\person.pbl,d_address_free,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\person.pbl,str_person_parm,s
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\person.pbl,u_address,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\product.pbl,d_product_detail,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\product.pbl,d_order_detail_list,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,nvo_taskbarutil,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,d_setup,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,u_email,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\report.pbl,d_subcategorysalesreport_gc,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,w_sendemail,w
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,salesdemo,a
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\person.pbl,d_customer,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\common.pbl,m_menu,m
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesorder.pbl,u_salesorder,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesorder.pbl,d_order_header_grid,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\report.pbl,d_subreport_filter,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\report.pbl,d_subreport_filter_gc,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,str_emailsetting,s
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\product.pbl,d_history_price,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\report.pbl,d_categorysalesreport_m,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,u_survey,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\person.pbl,d_address,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\product.pbl,d_product,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\common.pbl,n_string,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,w_survey,w
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,w_progressbar,w
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\person.pbl,d_businessentityaddress,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,w_about,w
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\common.pbl,u_searchbox,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\common.pbl,u_dw,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\report.pbl,d_dept_data_for_graph,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\common.pbl,w_base,w
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\common.pbl,u_button,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\person.pbl,d_personphone,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,n_smtpclient,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,w_help,w
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\product.pbl,u_product,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\common.pbl,f_checkmodify,f
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\person.pbl,d_person_list,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\report.pbl,u_salesreport,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesorder.pbl,w_salesorder,w
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,f_chk_webview_installed,f
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,emf_str_ribbonbaritem,s
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,nvo_apiclass,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\product.pbl,w_product,w
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,w_emailsettings,w
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\salesdemo.pbl,w_setup,w
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\product.pbl,d_dddw_catesel,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\report.pbl,u_createpdf,u
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\report.pbl,d_categorysalesreport_gc,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\person.pbl,d_person,d
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\report.pbl,w_salesreport,w
+OBJ:D:\Demo App\salesdemo_svg icon\Native_PB\Appeon.SalesDemo\person.pbl,u_person,u
