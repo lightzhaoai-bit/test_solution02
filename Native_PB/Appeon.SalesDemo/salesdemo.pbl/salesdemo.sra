@@ -62,7 +62,7 @@ destroy(message)
 end on
 
 event open;String  ls_theme
- //
+ 
 //Check Evergreen WebView2 Runtime Installed
 If f_chk_webview_installed() = -1 Then
               Return
